@@ -1,0 +1,16 @@
+
+
+# ProjectSummary
+
+Short project reference (id, name, slug).
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**id** | **String** |  |  [optional] |
+|**name** | **String** |  |  [optional] |
+|**slug** | **String** |  |  [optional] |
+
+
+
